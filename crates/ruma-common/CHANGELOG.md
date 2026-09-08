@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+Improvements:
+
+- Add unstable support for [MSC4363] "OAuth step up authentication".
+
+[MSC4363]: https://github.com/matrix-org/matrix-spec-proposals/pull/4363
+
 ## 0.20.0
 
 Breaking changes:
